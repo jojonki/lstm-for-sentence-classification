@@ -1,4 +1,4 @@
-# lstm-for-sentence-classification
+# LSTM for sentence classification by Keras
 
 A sentence classification (0/1) model using LSTM. Given one sentence (word list) which is embedded, then fed to LSTM. Finally it outputs 0/1 via Dense layer.
 
